@@ -18,9 +18,9 @@
 
 ## Datos
 
-Para el desarrollo de nuestro proyecto se descargaron las fuentes de delitos desde la página web del Ministerio de Defensa Nacional de Colombia (https://www.mindefensa.gov.co/irj/portal/Mindefensa/contenido?NavigationTarget=navurl://c17680c4c6ae25daaa589817c6ce4205 ) en donde cada uno de estos viene en archivos independientes los cuáles se consolidados y se extraen los campos necesarios para cada variable.
-Adicionalmente se descargó de la página web del Dane (https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/) con las coordenadas para geolocalización de los municipios.
-Se cuentan con las siguientes variables y para cada uno de estas se realizó el proceso de extracción de las columnas de interés, así como el filtro del periodo de análisis el cuál va de 2017 al 2022:
+Para el desarrollo de nuestro proyecto se descargaron las fuentes de delitos desde la página web del Ministerio de Defensa Nacional de Colombia (https://www.mindefensa.gov.co/irj/portal/Mindefensa/contenido?NavigationTarget=navurl://c17680c4c6ae25daaa589817c6ce4205 ) en donde cada uno de estos viene en archivos independientes, los cuáles fueron consolidados y se extraen los campos necesarios para cada variable.
+Adicionalmente se descargó de la página web del Dane (https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/) las coordenadas para geolocalización de los municipios.
+Se cuentan con las siguientes variables y para cada uno de estas se realizó el proceso de extracción de las columnas de interés, así como el filtro del periodo de análisis, el cual va de 2017 al 2022:
 DELITOS_CONTRA_MEDIO_AMBIENTE, DELITOS_INFORMATICOS, DELITOS_SEXUALES, EXTORSION, HOMICIDIO, HOMICIDIO_ACCIDENTE_TRANSITO, HOMICIDIO_COLECTIVO_VICTIMAS, HURTO_COMERCIO,HURTO_PERSONAS2017-2023, HURTO_RESIDENCIAS,HURTO_VEHICULOS, LESIONES_ACCIDENTES_TRANSITO, LESIONES_PERSONALES, SECUESTRO, VIOLENCIA_INTRAFAMILIAR.
 
 ## Resultados Preliminares
