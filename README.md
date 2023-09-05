@@ -28,14 +28,6 @@ Aquí se encuentran los resultados preliminares de tu proyecto.
 
 Puedes encontrar la documentación y entregables del proyecto en esta carpeta.
 
-## Contribución
-
-Si deseas contribuir a este proyecto, por favor sigue las [pautas de contribución](CONTRIBUTING.md).
-
-## Licencia
-
-Este proyecto está bajo la licencia [Nombre de la Licencia](LICENSE).
-
 </body>
 </html>
 
