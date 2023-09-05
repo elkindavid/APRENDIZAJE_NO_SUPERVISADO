@@ -22,10 +22,11 @@ En esta carpeta encontrarás los datos utilizados en el proyecto.
 
 ## Resultados Preliminares
 
-Aquí se encuentran los resultados preliminares de tu proyecto.
-
+#### Delitos en Colombia
 ![Delitos en Colombia](./Resultados%20Preliminares/Delitos%20en%20Colombia.png)
 
+#### Evolución por delito
+![Evolucion por delito](./Resultados%20Preliminares/Evolucion%20por%20delito%20ultimos%206%20años.png)
 
 ## Documento de la Entrega
 
