@@ -8,7 +8,7 @@
 
 # APRENDIZAJE NO SUPERVISADO
 
-Caracterizacion de tipología de criminalidad por municipios en Colombia
+Índice y patrones de comportamiento a través de la aplicación de modelos de clusterización y análisis de componentes principales (PCA) sobre los datos relacionados con la criminalidad en Colombia durante el periodo comprendido entre los años 2017 y 2022
 
 ## Navegación
 
