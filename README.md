@@ -40,7 +40,9 @@ Luego de realizar el análisis de clustering con k-means sin utilizar componente
 
 ## Documento de la Entrega
 
-...
+La convivencia y seguridad ciudadana es un aspecto trascendental para la calidad de vida de una nación. Este aspecto se relaciona directamente con diversas variables sociales, económicas, políticas y culturales, de igual manera, su atención constituye uno de los retos más relevantes tanto del Gobierno nacional como de las entidades territoriales. La gestión territorial de la convivencia y seguridad ciudadana en Colombia se puede evidenciar a partir de la elaboración e implementación de la Política de Seguridad Nacional y a nivel territorial a través de los Planes Integrales de Seguridad y Convivencia Ciudadana (PISCC). Estos lineamientos permiten la construcción estrategias y lineamientos para la mejora de las condiciones de convivencia y seguridad ciudadana
+Colombia cuenta con ciertas particularidades respecto a los fenómenos y dinámicas que afectan las condiciones de convivencia y seguridad ciudadana. Estos fenómenos deben ser atendidos de forma diferencial, planteando estrategias claras y oportunas para reducir la ocurrencia de delitos, incentivar su seguimiento sostenible y, seguidamente, garantizar la retroalimentación continua en las decisiones de política pública.
+Por lo anterior, el presente documento pretende estructurar un Análisis por Componentes Principales y un Análisis por Clúster para caracterizar el comportamiento de las variables de seguridad entre 2017 y 2022 con la finalidad de establecer agrupamientos de los fenómenos de criminalidad de acuerdo con el municipio en el que se registren.
 
 </body>
 </html>
