@@ -26,15 +26,10 @@ DELITOS_CONTRA_MEDIO_AMBIENTE, DELITOS_INFORMATICOS, DELITOS_SEXUALES, EXTORSION
 ## Resultados Preliminares
 
 #### Gráfico de barras por año
-![Grafico de barras por año](./Resultados%20Preliminares/Grafico%20de%20barras%20por%20año.png)
-
 <img src="./Resultados%20Preliminares/Grafico%20de%20barras%20por%20año.png" alt="Grafico de barras por añon" width="300" height="200">
 
 #### Grafico de barras por delito
-![Grafico de barras por delito](./Resultados%20Preliminares/Grafico%20de%20barras%20por%20delito.png)
-
-#### Evolución por delito
-![Evolucion por delito](./Resultados%20Preliminares/Evolucion%20por%20delito%20ultimos%206%20años.png)
+<img src="./Resultados%20Preliminares/Grafico%20de%20barras%20por%20delito.png" alt="Grafico de barras por delito" width="300" height="200">
 
 #### Matriz de correlación
 ![Matriz de Correlacion](./Resultados%20Preliminares/Matriz%20de%20correlación.png)
