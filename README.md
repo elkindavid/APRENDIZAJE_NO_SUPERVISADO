@@ -12,7 +12,7 @@
 
 ## Navegación
 
-- [Datos](#datos)
+- [Datos](Datos)
 - [Resultados Preliminares](#resultados-preliminares)
 - [Documento de la Entrega](#documento-de-la-entrega)
 
