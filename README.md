@@ -13,8 +13,8 @@
 ## Navegación
 
 - [Datos](Datos)
-- [Resultados Preliminares](#resultados-preliminares)
-- [Documento de la Entrega](#documento-de-la-entrega)
+- [Resultados Preliminares](Resultados Preliminares)
+- [Documento de la Entrega](Documento de la Entrega)
 
 ## Datos
 
