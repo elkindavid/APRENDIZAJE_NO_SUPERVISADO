@@ -28,6 +28,18 @@ En esta carpeta encontrarás los datos utilizados en el proyecto.
 #### Evolución por delito
 ![Evolucion por delito](./Resultados%20Preliminares/Evolucion%20por%20delito%20ultimos%206%20años.png)
 
+#### Gráfico de barras por año
+![Grafico de barras por año](./Resultados%20Preliminares/Grafico%20de%20barras%20por%20año.png)
+
+#### Grafico de barras por delito
+![Grafico de barras por delito](./Resultados%20Preliminares/Grafico%20de%20barras%20por%20delito.png)
+
+#### Latitud y longitud
+![latitud y longitud](./Resultados%20Preliminares/Latitud%20y%20Longitud.png)
+
+#### Matriz de correlación
+![Matriz de Correlacion](./Resultados%20Preliminares/Matriz%20de%20correlación.png)
+
 ## Documento de la Entrega
 
 Puedes encontrar la documentación y entregables del proyecto en esta carpeta.
