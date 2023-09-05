@@ -31,14 +31,14 @@ DELITOS_CONTRA_MEDIO_AMBIENTE, DELITOS_INFORMATICOS, DELITOS_SEXUALES, EXTORSION
 #### Grafico de barras por delito
 <img src="./Resultados%20Preliminares/Grafico%20de%20barras%20por%20delito.png" alt="Grafico de barras por delito" width="300" height="200">
 
-#### Matriz de correlación
-![Matriz de Correlacion](./Resultados%20Preliminares/Matriz%20de%20correlación.png)
+Se observa que de los últimos 6 años , el año 2020 fué el que presento menor cantidad de delitos (731.361) esto puede ser efectos de la pandemia de COVID en donde la mayoria de personas se encontraban en cuarentena la mayor parte del año, adicionalmente 2018 ha sdo el mes con mayor cantidad de delitos (790.434), sin embargo en los último 3 años del análisis se evidencia un crecimiento añoa a año.
 
-#### Delitos en Colombia
-![Delitos en Colombia](./Resultados%20Preliminares/Delitos%20en%20Colombia.png)
+El hurto a personas es el delito que ha afectado en gran medida a la población en los últimos años siendo la categoría con mayor participación 1.619.489, seguido de lesiiones personales con 680.670 casos.
 
 #### Latitud y longitud
-![latitud y longitud](./Resultados%20Preliminares/Latitud%20y%20Longitud.png)
+<img src="./Resultados%20Preliminares/Latitud%20y%20Longitud.png" alt="Latitud y longitud" width="300" height="200">
+
+Luego de realizar el análisis de clustering con k-means sin utilizar componentes principales para reducir la dimensionalidad, para tener una primera vista con los datos de entrada, se puede observar que sugiere dos clusters gracias al coeficiente de silueta con un valor de 0.98.
 
 ## Documento de la Entrega
 
