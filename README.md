@@ -33,10 +33,10 @@ Adicionalmente se descargó de la página web del Dane (https://geoportal.dane.g
 
 * El hurto a personas es el delito que ha afectado en gran medida a la población en los últimos años siendo la categoría con mayor participación 1.619.489, seguido de lesiiones personales con 680.670 casos.
 
-#### Latitud y longitud
-<img src="./Resultados%20Preliminares/Latitud%20y%20Longitud.png" alt="Latitud y longitud" width="300" height="200">
+#### Clusters con PCA
+<img src="./Resultados%20Preliminares/Clusters%20con%20PCA.png" alt="Latitud y longitud" width="300" height="200">
 
-* Luego de realizar el análisis de clustering con k-means sin utilizar componentes principales para reducir la dimensionalidad, para tener una primera vista con los datos de entrada, se puede observar que sugiere dos clusters gracias al coeficiente de silueta con un valor de 0.98.
+* Distribución del cluster luego de aplicar el PCA que tiene mejor ajuste.
 
 ## Documento de la Entrega
 
