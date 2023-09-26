@@ -44,7 +44,7 @@ Adicionalmente se descargó de la página web del Dane (https://geoportal.dane.g
 
 * Colombia cuenta con ciertas particularidades respecto a los fenómenos y dinámicas que afectan las condiciones de convivencia y seguridad ciudadana. Estos fenómenos deben ser atendidos de forma diferencial, planteando estrategias claras y oportunas para reducir la ocurrencia de delitos, incentivar su seguimiento sostenible y, seguidamente, garantizar la retroalimentación continua en las decisiones de política pública.
  
-* Por lo anterior, el presente documento pretende estructurar un Análisis por Componentes Principales y un Análisis por Clúster para caracterizar el comportamiento de las variables de seguridad entre 2017 y 2022 con la finalidad de establecer agrupamientos de los fenómenos de criminalidad de acuerdo con el municipio en el que se registren.
+* Por lo anterior, el presente documento pretende estructurar un Análisis por Componentes Principales y un Análisis por Clúster para caracterizar el comportamiento de las variables de seguridad entre 2017 y 2022 con la finalidad de establecer agrupamientos de los fenómenos de criminalidad de acuerdo con el municipio en el que se registren. El principal resultado del estudio es la alta incidencia de los hurtos (Hurto a personas, residencias, comercio y vehículos) y la extorsión y en una menor medida problemáticas como delitos ambientales, secuestro y homicidios colectivos ocurren en muy pocos municipios. Por lo que el análisis realizado demuestra la necesidad de generar estrategias que mitiguen el hurto como el factor principal de inseguridad en el país.
 
 </body>
 </html>
