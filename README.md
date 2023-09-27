@@ -15,6 +15,7 @@
 - [Datos](Datos)
 - [Resultados Preliminares](Resultados%20Preliminares)
 - [Documento de la Entrega](Documento%20de%20la%20Entrega)
+- [Video Presentación](https://www.youtube.com/watch?v=51u8LV4H38Y)
 
 ## Datos
 
